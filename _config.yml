@@ -80,4 +80,4 @@ deploy:
   type: git
   repo: https://github.com/simors/blockchainxx_blog.git
   branch: master
-  message: {{ now('YYYY-MM-DD HH:mm:ss') }}
+  message: Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
