@@ -78,6 +78,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:simors/blockchainxx_blog.git
+  repo: https://github.com/simors/blockchainxx_blog.git
   branch: master
   message: {{ now('YYYY-MM-DD HH:mm:ss') }}
