@@ -78,4 +78,5 @@ theme: icarus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-
+  repo: https://github.com/simors/blockchainxx_blog.git
+  branch: master
